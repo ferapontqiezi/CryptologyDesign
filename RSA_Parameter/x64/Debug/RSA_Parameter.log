@@ -1,0 +1,154 @@
+﻿  ac_5.cpp
+C:\MinGW\include\stdio.h(38,9): warning C4068: 未知的杂注“GCC”
+C:\MinGW\include\msvcrtver.h(35,9): warning C4068: 未知的杂注“GCC”
+C:\MinGW\include\w32api.h(35,9): warning C4068: 未知的杂注“GCC”
+C:\MinGW\include\sdkddkver.h(35,9): warning C4068: 未知的杂注“GCC”
+C:\MinGW\include\w32api.h(186,1): warning C4005: “_EXTERN_C”: 宏重定义
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\yvals_core.h(1375): message : 参见“_EXTERN_C”的前一个定义
+C:\MinGW\include\sys\types.h(34,9): warning C4068: 未知的杂注“GCC”
+C:\MinGW\include\stdio.h(260,39): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\MinGW\include\stdio.h(260,39): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(260,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(260,39): error C2377: “FILE”: 重定义；typedef 不能由任何其他符号重载
+C:\MinGW\include\stdio.h(220): message : 参见“FILE”的声明
+C:\MinGW\include\stdio.h(260,75): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(261,39): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\MinGW\include\stdio.h(261,39): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(261,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(261,78): error C2061: 语法错误: 标识符“FILE”
+C:\MinGW\include\stdio.h(261,85): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(262,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(263,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(270,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(271,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(272,39): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\MinGW\include\stdio.h(272,39): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(272,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(272,55): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(273,34): error C2062: 意外的类型“char”
+C:\MinGW\include\stdio.h(276,34): error C2062: 意外的类型“char”
+C:\MinGW\include\stdio.h(277,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(278,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(289,34): error C2062: 意外的类型“char”
+C:\MinGW\include\stdio.h(290,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(291,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(295,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(296,34): error C2062: 意外的类型“void”
+C:\MinGW\include\stdio.h(342,50): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(342,51): error C2059: 语法错误:“,”
+C:\MinGW\include\stdio.h(346,51): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(346,52): error C2059: 语法错误:“,”
+C:\MinGW\include\stdio.h(453,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(454,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(455,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(456,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(457,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(458,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(478,52): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(478,52): error C2491: “__msvcrt_fprintf”: 不允许 dllimport 数据 的定义
+C:\MinGW\include\stdio.h(478,53): error C2059: 语法错误:“,”
+C:\MinGW\include\stdio.h(481,53): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(481,53): error C2491: “__msvcrt_vfprintf”: 不允许 dllimport 数据 的定义
+C:\MinGW\include\stdio.h(481,54): error C2059: 语法错误:“,”
+C:\MinGW\include\stdio.h(490,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(491,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(492,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(502,1): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(505,1): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(508,1): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(511,1): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(514,1): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(647,10): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(647,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(647,10): error C2377: “ssize_t”: 重定义；typedef 不能由任何其他符号重载
+C:\MinGW\include\sys\types.h(123): message : 参见“ssize_t”的声明
+C:\MinGW\include\stdio.h(647,1): error C2146: 语法错误: 缺少“;”(在标识符“getdelim”的前面)
+C:\MinGW\include\stdio.h(650,9): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(650,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(649,25): error C2086: “int ssize_t”: 重定义
+C:\MinGW\include\stdio.h(646): message : 参见“ssize_t”的声明
+C:\MinGW\include\stdio.h(650,1): error C2146: 语法错误: 缺少“;”(在标识符“getline”的前面)
+C:\MinGW\include\stdio.h(658,1): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(657,25): error C7525: 内联变量至少需要 "/std:c++17"
+C:\MinGW\include\stdio.h(658,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(657,25): error C2086: “int ssize_t”: 重定义
+C:\MinGW\include\stdio.h(646): message : 参见“ssize_t”的声明
+C:\MinGW\include\stdio.h(657,33): error C2146: 语法错误: 缺少“;”(在标识符“getline”的前面)
+C:\MinGW\include\stdio.h(658,23): error C2146: 语法错误: 缺少“)”(在标识符“__l”的前面)
+C:\MinGW\include\stdio.h(658,23): error C3646: “__l”: 未知重写说明符
+C:\MinGW\include\stdio.h(658,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(658,35): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\MinGW\include\stdio.h(658,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(658,35): error C2377: “size_t”: 重定义；typedef 不能由任何其他符号重载
+E:\CryptologyDesgin\RSA_Parameter\ac_5.cpp : message : 参见“size_t”的声明
+C:\MinGW\include\stdio.h(658,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(658,49): error C2146: 语法错误: 缺少“;”(在标识符“__n”的前面)
+C:\MinGW\include\stdio.h(658,77): error C2059: 语法错误:“)”
+C:\MinGW\include\stdio.h(659,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\MinGW\include\stdio.h(659,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\MinGW\include\stdio.h(666,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(667,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(668,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(672,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(673,34): error C2062: 意外的类型“char”
+C:\MinGW\include\stdio.h(674,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(675,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(676,34): error C2062: 意外的类型“char”
+C:\MinGW\include\stdio.h(677,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(678,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(687,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(688,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(725,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(726,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(727,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(728,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(734,47): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(734,47): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(734,34): error C2370: “size_t”: 重定义；不同的存储类
+C:\MinGW\include\stdio.h(658): message : 参见“size_t”的声明
+C:\MinGW\include\stdio.h(734,41): error C2146: 语法错误: 缺少“;”(在标识符“fread”的前面)
+C:\MinGW\include\stdio.h(734,56): error C2061: 语法错误: 标识符“size_t”
+C:\MinGW\include\stdio.h(734,79): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(735,48): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(735,48): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(735,34): error C2370: “size_t”: 重定义；不同的存储类
+C:\MinGW\include\stdio.h(658): message : 参见“size_t”的声明
+C:\MinGW\include\stdio.h(735,41): error C2146: 语法错误: 缺少“;”(在标识符“fwrite”的前面)
+C:\MinGW\include\stdio.h(735,63): error C2061: 语法错误: 标识符“size_t”
+C:\MinGW\include\stdio.h(735,86): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(739,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(740,34): error C2062: 意外的类型“long”
+C:\MinGW\include\stdio.h(741,34): error C2062: 意外的类型“void”
+C:\MinGW\include\stdio.h(792,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(793,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(797,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(798,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(801,33): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(801,54): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\MinGW\include\stdio.h(801,54): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\MinGW\include\stdio.h(802,33): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(802,56): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\MinGW\include\stdio.h(802,56): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\MinGW\include\stdio.h(808,34): error C2062: 意外的类型“void”
+C:\MinGW\include\stdio.h(809,34): error C2062: 意外的类型“void”
+C:\MinGW\include\stdio.h(816,39): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\MinGW\include\stdio.h(816,39): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(816,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(816,76): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(817,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(820,39): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\MinGW\include\stdio.h(820,39): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(820,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(820,76): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(821,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(826,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(827,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(828,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(829,39): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\MinGW\include\stdio.h(829,39): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\MinGW\include\stdio.h(829,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(829,68): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\MinGW\include\stdio.h(830,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(831,34): error C2062: 意外的类型“int”
+C:\MinGW\include\stdio.h(832,39): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\MinGW\include\stdio.h(832,39): fatal error C1003: 错误计数超过 100；正在停止编译

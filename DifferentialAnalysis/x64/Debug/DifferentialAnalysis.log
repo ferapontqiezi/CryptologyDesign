@@ -1,0 +1,4 @@
+﻿  ac_3.cpp
+E:\CryptologyDesgin\DifferentialAnalysis\ac_3.cpp(1,9): warning C4068: 未知的杂注“GCC”
+E:\CryptologyDesgin\DifferentialAnalysis\ac_3.cpp(124,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DifferentialAnalysis.vcxproj -> E:\CryptologyDesgin\x64\Debug\DifferentialAnalysis.exe
