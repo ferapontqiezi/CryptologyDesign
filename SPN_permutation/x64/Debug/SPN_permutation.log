@@ -1,0 +1,3 @@
+﻿  permutationSet.cpp
+E:\CryptologyDesgin\SPN_permutation\permutationSet.cpp(85,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SPN_permutation.vcxproj -> E:\CryptologyDesgin\x64\Debug\SPN_permutation.exe

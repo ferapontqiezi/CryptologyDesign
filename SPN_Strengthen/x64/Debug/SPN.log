@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(SPN.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  ac_4.cpp
+E:\CryptologyDesgin\SPN_Strengthen\ac_4.cpp(1,9): warning C4068: 未知的杂注“GCC”
+  SPN.vcxproj -> E:\CryptologyDesgin\x64\Debug\SPN_Strengthen.exe
